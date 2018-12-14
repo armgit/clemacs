@@ -2,3 +2,9 @@ elpa/
 auto-save-list/
 ac-comphist.dat
 recentf
+/**/*~
+semanticdb/
+ede-projects.el
+eshell/
+.#recentf
+games/

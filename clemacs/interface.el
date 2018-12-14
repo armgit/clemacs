@@ -13,4 +13,4 @@
 
 ;; Set font
 (custom-set-faces
- '(default ((t (:height 90)))))
+ '(default ((t (:height 80)))))

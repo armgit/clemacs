@@ -3,3 +3,4 @@
 (mapc 'load-file (file-expand-wildcards "~/.emacs.d/clemacs/packages/*.el"))
 (load-file "~/.emacs.d/clemacs/interface.el")
 (load-file "~/.emacs.d/clemacs/misc.el")
+(load-file "~/.emacs.d/clemacs/keybindings.el")
